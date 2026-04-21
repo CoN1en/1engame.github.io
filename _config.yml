@@ -2,7 +2,7 @@ name: "CLen游戏厅"
 description: "game bar"
 
 avatar: https://1engame.github.io/images/headd.png
-favicon:
+favicon: https://1engame.github.io/images/headd.png
 
 navigation:
   - name: 首页
